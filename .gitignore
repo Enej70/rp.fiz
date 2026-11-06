@@ -5,3 +5,8 @@
 *.fdb_latexmk
 *.synctex.gz
 !urnik-resitev.pdf
+!*-resitev.pdf
+*.bbl
+*.blg
+*.bib
+*.toc
